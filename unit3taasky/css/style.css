@@ -1,0 +1,22 @@
+body {
+	background-image: url("../Assets/background.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+h1 {
+	font-size: 14px;
+	font-family: arial;
+	font-style: normal;
+	font-weight: normal;
+	color: white;
+	padding-top: 20px;
+	padding-left: 30px
+}
+.floatleft
+{
+	background-image:url("../Assets/stripes.png");
+	background-repeat: repeat-x;
+}
+hr {
+	margin-left: 30px;
+}
